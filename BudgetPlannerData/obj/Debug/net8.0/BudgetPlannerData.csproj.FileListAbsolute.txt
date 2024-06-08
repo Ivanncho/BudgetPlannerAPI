@@ -1,0 +1,14 @@
+D:\BudgetPlanner\BudgetPlannerApi\BudgetPlannerData\bin\Debug\net8.0\BudgetPlannerData.deps.json
+D:\BudgetPlanner\BudgetPlannerApi\BudgetPlannerData\bin\Debug\net8.0\BudgetPlannerData.runtimeconfig.json
+D:\BudgetPlanner\BudgetPlannerApi\BudgetPlannerData\bin\Debug\net8.0\BudgetPlannerData.dll
+D:\BudgetPlanner\BudgetPlannerApi\BudgetPlannerData\bin\Debug\net8.0\BudgetPlannerData.pdb
+D:\BudgetPlanner\BudgetPlannerApi\BudgetPlannerData\obj\Debug\net8.0\BudgetPlannerData.csproj.AssemblyReference.cache
+D:\BudgetPlanner\BudgetPlannerApi\BudgetPlannerData\obj\Debug\net8.0\BudgetPlannerData.GeneratedMSBuildEditorConfig.editorconfig
+D:\BudgetPlanner\BudgetPlannerApi\BudgetPlannerData\obj\Debug\net8.0\BudgetPlannerData.AssemblyInfoInputs.cache
+D:\BudgetPlanner\BudgetPlannerApi\BudgetPlannerData\obj\Debug\net8.0\BudgetPlannerData.AssemblyInfo.cs
+D:\BudgetPlanner\BudgetPlannerApi\BudgetPlannerData\obj\Debug\net8.0\BudgetPlannerData.csproj.CoreCompileInputs.cache
+D:\BudgetPlanner\BudgetPlannerApi\BudgetPlannerData\obj\Debug\net8.0\BudgetPlannerData.dll
+D:\BudgetPlanner\BudgetPlannerApi\BudgetPlannerData\obj\Debug\net8.0\refint\BudgetPlannerData.dll
+D:\BudgetPlanner\BudgetPlannerApi\BudgetPlannerData\obj\Debug\net8.0\BudgetPlannerData.pdb
+D:\BudgetPlanner\BudgetPlannerApi\BudgetPlannerData\obj\Debug\net8.0\BudgetPlannerData.genruntimeconfig.cache
+D:\BudgetPlanner\BudgetPlannerApi\BudgetPlannerData\obj\Debug\net8.0\ref\BudgetPlannerData.dll
